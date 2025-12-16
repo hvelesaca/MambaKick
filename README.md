@@ -1,6 +1,6 @@
 # Paper: MambaKick: Early Penalty Direction Prediction from HAR Embeddings
 
-The overall architecture of the proposed AINet.
+The overall architecture of the proposed MambaKick.
  
 ![benchmark](MambaKick.png) <br>
 

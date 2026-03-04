@@ -5,7 +5,7 @@ The overall architecture of the proposed MambaKick (ICICV 2026 paper accepted).
 ![benchmark](MambaKick.png) <br>
 
 # Code and dataset
-Code for training is available on the Kaggle platform:
+Code and embeddings for training are available on the Kaggle platform:
 https://www.kaggle.com/code/hvelesaca/har-penalty-direction-prediction/
 
 # Citation

@@ -1,6 +1,6 @@
 # Paper: MambaKick: Early Penalty Direction Prediction from HAR Embeddings
 
-The overall architecture of the proposed MambaKick.
+The overall architecture of the proposed MambaKick (ICICV 2026 paper accepted).
  
 ![benchmark](MambaKick.png) <br>
 
